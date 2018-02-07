@@ -632,6 +632,7 @@ File NomosTestfiles/UnclassifiedLicense/license.all.html.in contains license(s) 
 File NomosTestfiles/UnclassifiedLicense/LICENSE.fatfs contains license(s) Non-profit,UnclassifiedLicense
 File NomosTestfiles/UnclassifiedLicense/eula.txt contains license(s) Citrix
 File NomosTestfiles/UnclassifiedLicense/net_phy_def.h contains license(s) UnclassifiedLicense
+File NomosTestfiles/UnclassifiedLicense/cygwinRef.txt contains license(s) UnclassifiedLicense
 File NomosTestfiles/MX4J/MX4J-1.0 contains license(s) MX4J-1.0
 File NomosTestfiles/Postfix/master_spawn.c contains license(s) Postfix
 File NomosTestfiles/Princeton/adj.dat contains license(s) Princeton
